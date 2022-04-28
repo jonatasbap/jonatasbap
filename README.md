@@ -1,4 +1,4 @@
-## Olá, Seja Bem Vindo(A)!!! Eu sou o Jonatas Baptista👋
+## <div align="center">Olá, Seja Bem Vindo(A)!!! Eu sou o Jonatas Baptista👋 <div><br>
 
 - 💼 Atualmemte estou trabalhando na CVS Internet como Analista de Suprimentos;
 - 👨‍🎓 Sou formado em Gestão da Tecnologia da Informação;
@@ -7,6 +7,7 @@
 - 🤔 Dicas são bem vindas;
 - 💬 Networking é Importante;
 - ⚡ Sobre tecnologia uma palavra me define "Curiosidade"
+
 
 <div align="left">
   <a href="https://github.com/jonatasbap">
